@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mithun Roy
 - 👀 I’m interested in Android and iOS
-- 🌱 I’m currently learning Dart and Swift
 - 📫 How to reach me - mithunroy25@gmail.com
 - ☕️ It all starts with a cup of coffee
 
