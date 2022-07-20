@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Mithun Roy
-- 👀 I’m interested in Android and iOS
+- 👀 I’m an Android and iOS developer
+- 🫠 I speak Kotlin, Java, Swift, ObjC, Dart
+- 🤘 Flutter enthusiast
 - 📫 How to reach me - mithunroy25@gmail.com
 - ☕️ It all starts with a cup of coffee
 
